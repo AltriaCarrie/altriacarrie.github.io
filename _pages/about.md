@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me (altriacarrie.github.io)
+About me (https://toofat.github.io/)
 
 A
 ======
