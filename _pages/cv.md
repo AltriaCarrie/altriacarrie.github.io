@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **2024 - Now**: &nbsp; Postdoctoral fellow, Texas A&M University, TX  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; PIs: Marc Goodrich, Lisa Fitton
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; PIs: Marc Goodrich, Lisa Fitton  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Diagnostic identification of language and reading disorders among bilingual children.
 * **2019 - 2024**: &nbsp; Ph.D in Education, University of California Irvine, CA  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Research Advisor:  
