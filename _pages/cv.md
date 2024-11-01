@@ -22,46 +22,28 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Research Advisor:  
 **2013 - 2017**:&ensp;B.A. in English Language and Literature, Beijing Jiaotong University, China
 
-
-Work experience
-------
-* Spring 2024: A
-  * test
-  * 
-  * 
-
-* Fall 2015: B
-  * test
-  * 
-  * 
-
-* Summer 2015: C
-  * test
-  * 
-  * 
   
-  
-Publications
+## Publications
 ------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
-Presentations
+## Presentations
 ------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
   
-Teaching
+## Teaching
 ------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
   
-Service and leadership
+## Service and leadership
 ------
 * test
