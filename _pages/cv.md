@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in C, Test University, 2024
-* M.S. in B, Test University, 2019
-* B.S. in A, Test University, 2017
+* Postdoctoral fellow, Texas A&M University, TX, 2024 - Now
+* Ph.D in Education, University of California Irvine, CA, 2024
+* M.Ed in Multilingual Learners, Vanderbilt University, TN, 2019
+* B.A. in English Language and Literature, Beijing Jiaotong University, China, 2017
 
 Work experience
 ======
