@@ -38,7 +38,8 @@ Work experience
   * test
   * 
   * 
-  
+
+------
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
