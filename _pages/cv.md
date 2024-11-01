@@ -20,8 +20,8 @@ Education
 **2017 - 2019**:&nbsp; M.Ed in Multilingual Learners, Vanderbilt University, TN  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Research Advisor:  
 **2013 - 2017**:&ensp;B.A. in English Language and Literature, Beijing Jiaotong University, China
-------
 
+------
 Work experience
 ======
 * Spring 2024: A
