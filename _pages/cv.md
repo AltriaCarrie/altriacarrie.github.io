@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-Education
+__Education__
+
 ------
 **2024 - Now**: &nbsp; Postdoctoral fellow, Texas A&M University, TX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;PIs: Marc Goodrich, Lisa Fitton  
