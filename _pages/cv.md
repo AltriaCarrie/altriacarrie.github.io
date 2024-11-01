@@ -14,7 +14,7 @@ Education
 * **2024 - Now**: &nbsp; Postdoctoral fellow, Texas A&M University, TX<br />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Diagnostic identification of language and reading disorders among bilingual children.
 * **2019 - 2024**: &nbsp; Ph.D in Education, University of California Irvine, CA  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Advisor:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Research Advisor:  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Dissertation title: Language Use and Self-efficacy in Writing of Linguistically Diverse Students.
 * **2017 - 2019**: &ensp; M.Ed in Multilingual Learners, Vanderbilt University, TN  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Research Advisor: 
