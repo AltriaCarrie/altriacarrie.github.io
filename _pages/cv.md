@@ -11,10 +11,14 @@ redirect_from:
 
 Education
 ======
-* Postdoctoral fellow, Texas A&M University, TX, 2024 - Now
-* Ph.D in Education, University of California Irvine, CA, 2024
-* M.Ed in Multilingual Learners, Vanderbilt University, TN, 2019
-* B.A. in English Language and Literature, Beijing Jiaotong University, China, 2017
+* **2024 - Now**:  Postdoctoral fellow, Texas A&M University, TX
+               Diagnostic identification of language and reading disorders among bilingual children.
+* **2019 - 2024**: Ph.D in Education, University of California Irvine, CA
+               Advisor: 
+               Dissertation title: Language Use and Self-efficacy in Writing of Linguistically Diverse Students.
+* **2017 - 2019**: M.Ed in Multilingual Learners, Vanderbilt University, TN
+               Research Advisor: 
+* **2013 - 2017**: B.A. in English Language and Literature, Beijing Jiaotong University, China
 
 Work experience
 ======
