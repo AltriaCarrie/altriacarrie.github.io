@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Toofat"
+title                    : "Jiali Wang"
 title_separator          : "-"
-name                     : &name "Dr. Toofat"
-description              : &description "black cat"
+name                     : &name "Jiali Wang"
+description              : &description "decription"
 url                      : https://altriacarrie.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "altriacarrie.github.io"
@@ -22,13 +22,13 @@ repository               : "altriacarrie.github.io"
 author:
   # Biographic information
   avatar           : "toofat.png"
-  name             : "Dr. Toofat"
+  name             : "Jiali Wang"
   pronouns         : # example: "she/her"  
   bio              : "A black cat"
   location         : "Irvine, California"
   employer         : "University of California Irvine"
   uri              : # URL
-  email            : "toofat@gmail.com" 
+  email            : "jialiw8@uci.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
