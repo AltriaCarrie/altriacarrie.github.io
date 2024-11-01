@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
-======
+------
 **2024 - Now**: &nbsp; Postdoctoral fellow, Texas A&M University, TX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;PIs: Marc Goodrich, Lisa Fitton  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Diagnostic identification of language and reading disorders among bilingual children.  
@@ -21,9 +22,9 @@ Education
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Research Advisor:  
 **2013 - 2017**:&ensp;B.A. in English Language and Literature, Beijing Jiaotong University, China
 
-------
+
 Work experience
-======
+------
 * Spring 2024: A
   * test
   * 
@@ -38,26 +39,29 @@ Work experience
   * test
   * 
   * 
-
-------
+  
+  
 Publications
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Presentations
-======
+------
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
+
   
 Teaching
-======
+------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
 Service and leadership
-======
+------
 * test
