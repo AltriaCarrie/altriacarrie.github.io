@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jiali Wang"
 title_separator          : "-"
 name                     : &name "Jiali Wang"
-description              : &description "decription"
+description              : &description "description"
 url                      : https://altriacarrie.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "altriacarrie.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "toofat.png"
   name             : "Jiali Wang"
   pronouns         : # example: "she/her"  
-  bio              : "A black cat"
+  bio              : "description"
   location         : "Irvine, California"
   employer         : "University of California Irvine"
   uri              : # URL
-  email            : "jialiw8@uci.edu" 
+  email            : "jialiw@tamu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
