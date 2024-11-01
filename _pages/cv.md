@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* **2024 - Now**:  Postdoctoral fellow, Texas A&M University, TX
-  aaa
+* **2024 - Now**:  Postdoctoral fellow, Texas A&M University, TX<br />
                Diagnostic identification of language and reading disorders among bilingual children.
 * **2019 - 2024**: Ph.D in Education, University of California Irvine, CA
                Advisor: 
