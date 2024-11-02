@@ -12,9 +12,9 @@ redirect_from:
 
 Research Interests
 ======
-* Language and literacy development of bilingual children and children with developmental language disorder
-* Assessing language use in writing and writing self-efficacy
-* Individual differences in bilingual language and literacy development
+* Language and literacy development of bilingual children and children with developmental language disorder.
+* Assessing language use in writing and writing self-efficacy.
+* Individual differences in bilingual language and literacy development.
 
 B
 ------
