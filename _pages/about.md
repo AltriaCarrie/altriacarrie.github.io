@@ -10,9 +10,11 @@ redirect_from:
 
 About me (https://toofat.github.io/)
 
-A
+Research Interests
 ======
-TEST
+* Language and literacy development of bilingual children and children with developmental language disorder
+* Assessing language use in writing and writing self-efficacy
+* Individual differences in bilingual language and literacy development
 
 B
 ------
