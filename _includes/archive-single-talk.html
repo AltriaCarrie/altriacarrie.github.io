@@ -13,6 +13,15 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
+  <style type="text/css"> 
+    a:link,a:visited{ 
+      text-decoration:none;
+      color: #8a7570
+    } 
+    a:hover{ 
+      text-decoration:underline;
+    } 
+  </style>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
