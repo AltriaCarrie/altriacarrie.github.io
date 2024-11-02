@@ -16,10 +16,10 @@ redirect_from:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;PIs: Marc Goodrich, Lisa Fitton  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Diagnostic identification of language and reading disorders among bilingual children.  
 **2019 - 2024**:&nbsp; Ph.D in Education, University of California Irvine, CA  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Research Advisor: Young-Suk G. Kim  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Advisor: Young-Suk G. Kim  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Dissertation title: Language Use and Self-efficacy in Writing of Linguistically Diverse Students.  
 **2017 - 2019**:&nbsp; M.Ed in Multilingual Learners, Vanderbilt University, TN  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Research Advisor:  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;Advisor:  
 **2013 - 2017**:&ensp;B.A. in English Language and Literature, Beijing Jiaotong University, China
 
   
