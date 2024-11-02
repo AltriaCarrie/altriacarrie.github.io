@@ -24,7 +24,7 @@ author:
   avatar           : "toofat.png"
   name             : "Jiali Wang"
   pronouns         : "she/her"  
-  bio              : "description"
+  bio              : # "description"
   location         : "College Station, Texas"
   employer         : "Texas A&M University"
   uri              : # URL
