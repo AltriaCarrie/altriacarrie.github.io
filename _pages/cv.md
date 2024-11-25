@@ -55,9 +55,9 @@ redirect_from:
   * SIG-Systematic Review and Meta-analysis
   * SIG-Writing and Literacies
 
-**Graduate Student Mentor**， UCI Undergraduate Research Opportunities Program
+**Graduate Student Mentor**， UCI Undergraduate Research Opportunities Program  
 **Advocator & Workshop presenter**, Community Heritage Advocacy and Resources for Linguistic
-Awareness and Support (CHARLAS)
-**Group leader for academic outreach**, ConnectedEd Academic Outreach
-**Volunteer**, ChatELC Program, Vanderbilt University
-**Translator**, Center for International Education, Beijing Jiaotong University
+Awareness and Support (CHARLAS)  
+**Group leader for academic outreach**, ConnectedEd Academic Outreach  
+**Volunteer**, ChatELC Program, Vanderbilt University  
+**Translator**, Center for International Education, Beijing Jiaotong University  
