@@ -46,4 +46,17 @@ redirect_from:
   
 ## Service and leadership
 ------
-* test
+**Ad-hoc reviewer**
+* International Journal of Education in Mathematics, Science and Technology
+* SRCD 2025 conference reviewer
+* AERA 2025 conference reviewer
+  * Division H – Research, Evaluation and Assessment in Schools
+  * SIG-Bilingual Education Research
+  * SIG-Systematic Review and Meta-analysis
+  * SIG-Writing and Literacies
+**Graduate Student Mentor**， UCI Undergraduate Research Opportunities Program
+**Advocator & Workshop presenter**, Community Heritage Advocacy and Resources for Linguistic
+Awareness and Support (CHARLAS)
+**Group leader for academic outreach**, ConnectedEd Academic Outreach
+**Volunteer**, ChatELC Program, Vanderbilt University
+**Translator**, Center for International Education, Beijing Jiaotong University
