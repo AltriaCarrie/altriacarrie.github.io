@@ -16,10 +16,6 @@ Research Interests
 * Assessing language use in writing and writing self-efficacy.
 * Individual differences in bilingual language and literacy development.
 
-B
+**test**
 ------
-TEST
-
-**C**
-
 TEST
